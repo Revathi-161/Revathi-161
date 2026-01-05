@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I’m Revathi 👋
 
-<!--
-**Revathi-161/Revathi-161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 Fresher | Python Devoloper | Cloud Learner
 
-Here are some ideas to get you started:
+🌱 Currently learning Python and building beginner projects  
+🚀 Interested in Software Developer roles  
+📚 Improving problem-solving & GitHub skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+- Python
+- Git & GitHub
+- Basics of Cloud Computing
+
+---
+
+## 📂 Projects
+- Python Basics
+- Mini Python Projects
+- Student Management System (in progress)
+
+---
+
